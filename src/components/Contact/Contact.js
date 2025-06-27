@@ -7,32 +7,32 @@ const Contact = () => {
       <div id="Contact" className="footer">
         <div className="footer-content">
           <div className="footer-ribbon">
-            <div className="ribbon-top">YOGESH SAINI</div>
-            <div className="ribbon-bottom">A FULL-STACK DEVELOPER</div>
+            <div className="ribbon-top">YASH SHARMA</div>
+            <div className="ribbon-bottom">Machine Learning and Full Stack Developer</div>
           </div>
 
           <div className="footer-icons">
             <p className="footer-find-text">You can find me here✌</p>
             <div className="icon-links">
               <a
-                href="https://www.linkedin.com/in/yogesh-saini-203153265/"
+                href="https://www.linkedin.com/in/yash-sharma-58834624b/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <i className="fa-brands fa-linkedin footer-icon"></i>
               </a>
               <a
-                href="https://github.com/Saini-Yogesh"
+                href="https://github.com/yashsharma0730"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <i className="fa-brands fa-github footer-icon"></i>
               </a>
-              <a href="mailto:yogesh.saini4002@gmail.com">
+              <a href="mailto:sharma2004yash@gmail.com">
                 <i className="fa-solid fa-envelope footer-icon"></i>
               </a>
               <a
-                href="https://codolio.com/profile/yogesh_1___"
+                href="https://codolio.com/profile/yashsharma0730"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -43,7 +43,7 @@ const Contact = () => {
         </div>
         <div className="footer-border">
           <p className="footer-text">
-            2024 ❤️ © Designed and built by Yogesh Saini.
+            2025 ❤️ © Designed and built by Yash Sharma.
           </p>
         </div>
       </div>

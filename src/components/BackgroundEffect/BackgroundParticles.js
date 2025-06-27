@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import './BackgroundParticlesCSS.css';
 
-const PARTICLE_COUNT = 100;
+const PARTICLE_COUNT = 120;
 
 const BackgroundParticles = () => {
     const [particles, setParticles] = useState([]);

@@ -4,28 +4,22 @@ import "./EducationCSS.css";
 
 const educationData = [
   {
-    institute: "National Institute of Technology, Rourkela",
-    location: "Rourkela, India",
-    degree: "B.Tech in Mechanical Engineering",
-    year: "2022 – 2026",
+    institute: "GLA University,Mathura",
+    location: "Uttar Pradesh,India",
+    degree: "B.Tech CSE with Specialization in AIML",
+    year: "Bachelor's – 74.40%,2022 – 2026",
   },
   {
-    institute: "Cleared JEE Main",
-    location: "Sikar, India",
-    degree: "Admission at NIT Rourkela",
-    year: "AIR – 24,000",
-  },
-  {
-    institute: "Modern Children Sr Sec School",
-    location: "Neem Ka Thana, Sikar, India",
+    institute: "D.A.V Public School,Sec-14,Faridabad",
+    location: "Haryana,India",
     degree: "12th Grade",
-    year: "Intermediate – 95.20%, May 2021",
+    year: "Intermediate – 78.80%, May 2022",
   },
   {
-    institute: "Modern Children Sr Sec School",
-    location: "Neem Ka Thana, Sikar, India",
+    institute: "D.A.V Public School,Sec-14,Faridabad",
+    location: "Haryana,India",
     degree: "10th Grade",
-    year: "High School – 75.50%, May 2019",
+    year: "High School – 88.80%, May 2020",
   },
 ];
 

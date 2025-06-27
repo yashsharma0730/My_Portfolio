@@ -1,6 +1,6 @@
 import React from "react";
 import "./AboutMeCSS.css";
-import profileImage from "../../images/myPhoto2.jpg";
+import profileImage from "../../images/my.jpeg";
 import { motion } from "framer-motion";
 
 const AboutMe = () => {
@@ -17,14 +17,13 @@ const AboutMe = () => {
             <i className="fa-regular fa-user"></i> About Me
           </h1>
           <p>
-            Hi, I'm <b style={{ color: '#4a90e2', fontSize: "1.2em" }}>Yogesh Saini</b>.
-            I'm a web developer with a passion for
-            creating dynamic and responsive web applications. With a strong
-            background in the MERN stack and a keen eye for design, I enjoy
-            bringing ideas to life in the browser. My journey in web development
-            started with a curiosity for how websites are built, and it has
-            evolved into a fulfilling career where I get to solve interesting
-            problems every day.
+            Hi, I'm <b style={{ color: '#4a90e2', fontSize: "1.2em" }}>Yash Sharma</b>.
+            I'm a Machine Learning and Full Stack Developer with a deep passion for building intelligent
+             and scalable applications. With a strong foundation in both backend and frontend technologies, 
+             along with expertise in data science and AI, I love integrating smart ML solutions into real-world systems. 
+             My journey began with a fascination for how data can drive decisions and how seamless user experiences are built. 
+             Over time, this curiosity evolved into a rewarding career where I get to blend machine learning models with 
+             dynamic web interfaces to solve meaningful problems and create impactful solutions.
           </p>
         </motion.div>
         <motion.div

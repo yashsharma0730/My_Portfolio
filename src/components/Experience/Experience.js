@@ -5,19 +5,25 @@ import { motion } from "framer-motion";
 const Experience = () => {
   const experiences = [
     {
-      role: "🧑‍💻 Technical Member",
-      organization: "Algorithmic and Programming Society, NIT Rourkela",
-      duration: "Nov 2022 - Present",
+      role: "🧑‍💻 Machine Learning Intern",
+      organization: "JOVAC, GLA University",
+      duration: "June 2024-July 2024",
       details:
-        "As a dedicated member of the Algorithmic and Programming Society at NIT Rourkela, I have embraced the opportunity to contribute to the professional and technical development of students. My role involves mentoring and coaching a group of aspiring programmers, guiding their progress, and ensuring they remain focused on their goals. Additionally, I am an integral part of the core event management team, where I collaborate to organize events and workshops that enhance learning, foster collaboration, and inspire innovation among students. This experience has been deeply fulfilling, allowing me to blend my technical expertise with leadership skills while making a meaningful impact on the academic and professional journeys of my peers.",
-    },
-    {
-      role: "🎓 Campus Ambassador",
-      organization: "Unstop",
-      duration: "Oct 2024 - Present",
+        "As a Machine Learning Intern at JOVAC, G.L.A University, I worked on enhancing real-world AI systems focused on food image analysis and nutritional intelligence. My contributions included improving existing deep learning models such as YOLOv8, CNN, VGG16, and ResNet, achieving a 15% boost in prediction accuracy for calorie estimation by intelligently restructuring the dataset into multiple food classes. I also applied a Decision Tree Classifier to reduce misclassification by 30%, significantly improving overall model reliability. In addition, I designed and implemented a Hybrid Recommendation System that suggests three nutritionally equivalent food alternatives based on micronutrients, macronutrients, and calorie content. This internship not only deepened my technical expertise in computer vision and model optimization but also strengthened my ability to apply machine learning creatively to solve real-world health and nutrition challenges."},
+        {
+      role: "🐦‍🔥 Founder ",
+      organization: "TechVepra",
+      duration: "Dec 2024 - Present",
       details:
-        "Working as a campus ambassador at Unstop has been an incredible journey of learning and collaboration. Being part of a team dedicated to creating opportunities for students in our respective colleges has taught me the value of outreach and community-building. Our responsibilities range from organizing events and workshops to providing a supportive platform for students to grow and connect. The teamwork involved in planning and executing these initiatives has been an enriching experience, enhancing my organizational, communication, and leadership skills. At Unstop, I've realized the power of creating a community that empowers students to explore, learn, and excel. This role has not only allowed me to contribute to my college but also to develop a sense of purpose and fulfillment in helping others succeed.",
-    },
+        "Founding TechVepra, the first-ever tech community at our college, has been a transformative journey in leadership and community engagement. I started TechVepra with the aim of building a collaborative space where students passionate about technology could come together to learn, grow, and share opportunities.Our community focuses on sharing verified tech events, organizing workshops and peer-learning sessions, and promoting access to reliable resources. More than just a platform, TechVepra has become a workspace for like-minded individuals to collaborate on ideas, stay updated with the tech ecosystem, and build valuable connections.This initiative has taught me the true value of leading with purpose, building trust within a team, and sustaining a culture of knowledge-sharing. It has also helped me develop strong organizational, networking, and leadership skills, while creating a meaningful impact on my peers and college culture."
+},
+        {
+      role: "🧑‍💻 Data Science and Analytics Intern",
+      organization: "Zidio Development",
+      duration: "May 2025 - July 2025",
+      details:
+        "As a Data Science and Analytics Intern at Zidio Development, I worked on building an AI-powered Health Assistant Application aimed at promoting personal wellness. My key contributions included developing a dashboard for calorie prediction, personalized diet recommendations, and health analysis based on user inputs and image data. I also integrated a chatbot to guide users with real-time suggestions and support. This experience enhanced my skills in AI, data analysis, and visualization while deepening my understanding of user-centric health tech solutions."},
+    
   ];
 
   const [expanded, setExpanded] = useState({});

@@ -1,11 +1,11 @@
 :root {
   --cf-form-bg-color: #ffffff; /* Light background for form */
   --cf-input-border-color: #d1d5db; /* Light gray border for inputs */
-  --cf-input-focus-color: #007bff; /* Blue focus border color */
+  --cf-input-focus-color: #0e122a; /* Blue focus border color */
   --cf-input-text-color: #151515; /* Black text color for light theme */
-  --cf-button-bg-color: #007bff; /* Blue background for button */
+  --cf-button-bg-color: #0e122a; /* Blue background for button */
   --cf-button-text-color: #ffffff; /* White text color for button */
-  --cf-button-hover-bg-color: #0056b3; /* Darker blue on hover */
+  --cf-button-hover-bg-color: #0e122a; /* Darker blue on hover */
   --cf-placeholder-color: #151515; /* Light gray placeholder text */
 }
 
@@ -14,9 +14,9 @@ body.dark {
   --cf-input-border-color: #666;
   --cf-input-focus-color: #00ffff;
   --cf-input-text-color: #fff; /* White text color for dark theme */
-  --cf-button-bg-color: #4e90ff;
+  --cf-button-bg-color: #0b131f;
   --cf-button-text-color: #fff;
-  --cf-button-hover-bg-color: #006cbd;
+  --cf-button-hover-bg-color: #0e122a;
   --cf-placeholder-color: #ccc;
 }
 

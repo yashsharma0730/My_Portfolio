@@ -11,7 +11,6 @@ import ScrollToTopButton from "./components/ScrollToTopButton/ScrollToTopButton"
 import CodingProfilesSection from "./components/CodingProfiles/CodingProfiles";
 import Experience from "./components/Experience/Experience";
 import Form from "./components/Form/Form"
-import TapeSection from "./components/Tape/TapeSection";
 import BackgroundParticles from "./components/BackgroundEffect/BackgroundParticles";
 import LoadingScreen from "./components/LoadingScreen/LoadingScreen";
 
@@ -34,7 +33,6 @@ function App() {
       <AboutMe />
       <Education />
       <Skills />
-      <TapeSection />
       <Experience />
       <Project />
       <Achievement />

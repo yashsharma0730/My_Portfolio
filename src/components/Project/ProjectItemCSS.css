@@ -6,7 +6,7 @@
   --proj-desc-color: #444;
 
   --proj-link-color: #2563eb;
-  --proj-link-hover: #1e40af;
+  --proj-link-hover: #0e122a;
 
   --tag-bg: #e5e7eb;
   --tag-text: #333;
@@ -19,7 +19,7 @@
   --btn-hover-bg: #e60045;
 
   --img-strip-bg: #caccd1;
-  --img-strip-hover: #4e90ff;
+  --img-strip-hover: #0e122a;
 }
 
 body.dark {
@@ -29,8 +29,8 @@ body.dark {
   --proj-title-color: #fff;
   --proj-desc-color: #ccc;
 
-  --proj-link-color: #4e90ff;
-  --proj-link-hover: #006cbd;
+  --proj-link-color: #0e122a;
+  --proj-link-hover: #0e122a;
 
   --tag-bg: #2d2d2d;
   --tag-text: #c0c0c0;
@@ -43,7 +43,7 @@ body.dark {
   --btn-hover-bg: #e60045;
 
   --img-strip-bg: #caccd1;
-  --img-strip-hover: #4e90ff;
+  --img-strip-hover: #000000;
 }
 
 .project-card {

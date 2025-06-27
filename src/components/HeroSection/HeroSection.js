@@ -61,7 +61,7 @@ const HeroSection = () => {
     <div>
       <div className="availability-badge shine-button">
         <div className="ping-dot" />
-        <p>Available for new projects</p>
+        <p>Available for new projects and opportunities.</p>
       </div>
       <div className="hero-section">
         <div className="hero-content">
@@ -70,7 +70,7 @@ const HeroSection = () => {
             animate={{ opacity: isInView ? 1 : 0, y: isInView ? 0 : 50 }}
             transition={{ duration: 1, type: "spring", stiffness: 100 }}
           >
-            <TypingEffect text="Hi, I'm Yogesh Saini." speed={200} loop={true} />
+            <TypingEffect text="Hi, I'm Yash Sharma." speed={150} loop={true} />
           </motion.h1>
 
           <motion.h1
@@ -78,7 +78,7 @@ const HeroSection = () => {
             animate={{ opacity: isInView ? 1 : 0, y: isInView ? 0 : 50 }}
             transition={{ duration: 1.2, type: "spring", stiffness: 100 }}
           >
-            I build things for the WEB
+             I build intelligent systems with Machine Learning.
           </motion.h1>
 
           <motion.p
@@ -86,7 +86,7 @@ const HeroSection = () => {
             animate={{ opacity: isInView ? 1 : 0 }}
             transition={{ duration: 1.5 }}
           >
-            Discover the bespoke solutions and projects delivered.
+          Dive into innovative solutions and projects crafted with purpose and precision.
           </motion.p>
 
           <motion.div
@@ -96,14 +96,14 @@ const HeroSection = () => {
             transition={{ duration: 1.7 }}
           >
             <a
-              href="https://drive.google.com/file/d/1tpiFRzakAj6X9M1Sq2YM9Y00ynnKQVIv/view?usp=sharing"
+              href="https://drive.google.com/file/d/1QvUvYXNUuzoRKn5JW1_R3TuJZ06KeXOG/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="join-button shine-button"
             >
               My Resume
             </a>
-            <a href="mailto:yogesh.saini4002@gmail.com" className="contact-link shine-button">
+            <a href="mailto:sharma2004yash@gmail.com" className="contact-link shine-button">
               Mail Me
             </a>
           </motion.div>
