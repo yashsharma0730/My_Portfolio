@@ -5,51 +5,43 @@ import "./AchievementCSS.css";
 const achievementsData = [
   {
     text: (
-      <>
-        <span className="highlight2">Specialist</span> on Codeforces with a maximum rating of <span className="highlight1">1410+</span>.
+      <> 
+        <span className="highlight2">Second Runner Up</span> of Internal SIH 2K24 (G.L.A University).
       </>
     ),
-    link: "https://codeforces.com/profile/yogesh_1___",
+    link: "https://www.linkedin.com/posts/yashsharma0730_hackathon-sih2k24-glauniversity-activity-7237024247619969024-HqsJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3PA7gBmzH_rbfjH_LParU8M_HqK7HLqaU",
   },
   {
     text: (
       <>
-        <span className="highlight2">Knight</span> at LeetCode with a maximum contest rating of <span className="highlight1">1874</span>, ranked in the top <span className="highlight1">5%</span> globally.
+        <span className="highlight2">Winner</span> of Best Innovation Award in  <span className="highlight1">UHACK 3.0</span>(UCER Prayagraj).
       </>
     ),
-    link: "https://leetcode.com/u/yogesh_1___/",
+    link: "https://www.linkedin.com/posts/yashsharma0730_hackathon-sih-machinelearning-activity-7261684651428126720-1ZDH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3PA7gBmzH_rbfjH_LParU8M_HqK7HLqaU",
   },
   {
     text: (
       <>
-        <span className="highlight2">3-star(⭐)</span> on CodeChef with a maximum contest rating of <span className="highlight1">1660+</span>.
+        <span className="highlight2">Winner </span> of Summer Synergy Showcase-S3 (G.L.A University).
       </>
     ),
-    link: "https://www.codechef.com/users/yogesh_1_saini",
+    link: "https://www.linkedin.com/posts/yashsharma0730_innovation-artificialintelligence-healthcaretech-activity-7275063367088619522-mXkW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3PA7gBmzH_rbfjH_LParU8M_HqK7HLqaU",
   },
   {
     text: (
       <>
-        Achieved a global rank of <span className="highlight1">982</span> out of <span className="highlight1">34,698</span> participants in LeetCode Biweekly Contest 135.
+        Selected in Top-15 teams at Udgam 2025, IIT Guwahati’s flagship entrepreneurial summit.
       </>
     ),
-    link: "https://leetcode.com/contest/biweekly-contest-135/ranking/40/?region=global_v2",
+    link: "https://www.linkedin.com/posts/yashsharma0730_iitguwahati-hackathon-tech-activity-7296534687441633282-NplE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3PA7gBmzH_rbfjH_LParU8M_HqK7HLqaU",
   },
   {
     text: (
       <>
-        Secured <span className="highlight1">50<sup>th</sup> place</span> globally in CodeChef Starters 185, among thousands of participants.
+        Solved <span className="highlight1">100+</span> DSA problems on LeetCode, GFG and more.
       </>
     ),
-    link: "https://www.codechef.com/rankings/START185C?itemsPerPage=100&order=asc&page=1&search=yogesh_1_saini&sortBy=rank",
-  },
-  {
-    text: (
-      <>
-        Solved <span className="highlight1">1,500+</span> DSA problems on LeetCode, GFG, Codeforces, and CodeChef.
-      </>
-    ),
-    link: "https://codolio.com/profile/yogesh_1___",
+    link: "https://codolio.com/profile/yashsharma0730",
   },
 ];
 
